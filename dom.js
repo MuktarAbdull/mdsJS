@@ -1,23 +1,24 @@
         //DOCUMENT OBJECT MODEL DOM
-// let Element = document.querySelector('h1');
-// console.log(Element)
+let Element = document.querySelector('h1');
+console.log(Element)
 
 let Element2 = document.querySelector("#Element2")
 console.log(Element2)
 
-// let Element3 = document.querySelector(".Element3")
-// console.log(Element3)
-// let Element3 = document.querySelectorAll(".Element[3")
-// console.log(Element3)
+let Element3 = document.querySelector(".Element3")
+console.log(Element3)
+let Element3 = document.querySelectorAll(".Element[3")
+console.log(Element3)
 
             //OTHERWAY TO SELECT DOM
 /*let Element = document.getElementsByClassName("abdull");
 console.log(Element)*/
-// let Element = document.getElementsByClassName("abdull")[1];
-// console.log(Element);
 
-// let Element2 = document.querySelectorAll("#demo")
-// console.log(Element2)
+let Element = document.getElementsByClassName("abdull")[1];
+console.log(Element);
+
+let Element2 = document.querySelectorAll("#demo")
+console.log(Element2)
 
             // DOM ADDING OR REMOVING ELEMENTS FROM THE TAG
                 //ADDING ELEMENT
